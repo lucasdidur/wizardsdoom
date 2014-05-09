@@ -1,7 +1,7 @@
 #BlueJ class context
 comment0.params=
 comment0.target=DialogueManager()
-comment0.text=\n\ Constructor\ for\ objects\ of\ class\ DialogueManager\n
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ DialogueManager\r\n
 comment1.params=
 comment1.target=DialogueManager\ getInstance()
 comment2.params=id
@@ -12,7 +12,7 @@ comment4.params=id
 comment4.target=boolean\ openDialogue(java.lang.String)
 comment5.params=id
 comment5.target=boolean\ closeDialogue(java.lang.String)
-comment5.text=\n\ \ \ \ public\ DialogueWorld(WizardWorld\ world,\ Dialogue\ dialogue)\n\ \ \ \ {\ \ \ \ \n\ \ \ \ \ \ \ \ super(672,\ 525,\ 1);\ \n\ \ \ \ \ \ \ \ DialoguePanel\ dialoguePanel\ \=\ new\ DialoguePanel(world,\ dialogue);\n\ \ \ \ \ \ \ \ SoundManager.stopSound("outside.mp3");\n\ \ \ \ \ \ \ \ SoundManager.playSound("dialogue.mp3",\ true);\n\n\ \ \ \ }\ \ \ \ \n
+comment5.text=\r\n\ \ \ \ public\ DialogueWorld(WizardWorld\ world,\ Dialogue\ dialogue)\r\n\ \ \ \ {\ \ \ \ \r\n\ \ \ \ \ \ \ \ super(672,\ 525,\ 1);\ \r\n\ \ \ \ \ \ \ \ DialoguePanel\ dialoguePanel\ \=\ new\ DialoguePanel(world,\ dialogue);\r\n\ \ \ \ \ \ \ \ SoundManager.stopSound("outside.mp3");\r\n\ \ \ \ \ \ \ \ SoundManager.playSound("dialogue.mp3",\ true);\r\n\r\n\ \ \ \ }\ \ \ \ \r\n
 comment6.params=id
 comment6.target=Dialogue\ readDialogue(java.lang.String)
 comment7.params=dialogue

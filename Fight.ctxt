@@ -1,7 +1,7 @@
 #BlueJ class context
 comment0.params=world
 comment0.target=Fight(WizardWorld)
-comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Dialog\n
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Dialog\r\n
 comment1.params=
 comment1.target=void\ initComponents()
 comment2.params=evt
@@ -14,5 +14,5 @@ comment5.params=evt
 comment5.target=void\ answerMouseClicked(java.awt.event.MouseEvent)
 comment6.params=
 comment6.target=void\ dispose()
-comment6.text=\n\ \ \ \ private\ void\ exitActionPerformed(java.awt.event.ActionEvent\ evt)\ {\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \n\ \ \ \ \ \ \ \ //\ TODO\ add\ your\ handling\ code\ here\:\n\ \ \ \ \ \ \ \ dispose();\n\ \ \ \ \ \ \ \ Greenfoot.setWorld(world);\n\ \ \ \ \ \ \ \ Simulation.getInstance().setEnabled(false);\n\n\ \ \ \ }\ \ \ \n
+comment6.text=\r\n\ \ \ \ private\ void\ exitActionPerformed(java.awt.event.ActionEvent\ evt)\ {\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \r\n\ \ \ \ \ \ \ \ //\ TODO\ add\ your\ handling\ code\ here\:\r\n\ \ \ \ \ \ \ \ dispose();\r\n\ \ \ \ \ \ \ \ Greenfoot.setWorld(world);\r\n\ \ \ \ \ \ \ \ Simulation.getInstance().setEnabled(false);\r\n\r\n\ \ \ \ }\ \ \ \r\n
 numComments=7
